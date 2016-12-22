@@ -1,0 +1,19 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "nico's site with Angular2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoLedwith/nicossite_angular.git"
+  },
+  "author": "Nico Ledwith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoLedwith/nicossite_angular/issues"
+  },
+  "homepage": "https://github.com/NicoLedwith/nicossite_angular#readme"
+}
